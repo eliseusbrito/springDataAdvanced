@@ -1,6 +1,6 @@
 package com.eliseu.springDataAdvanced.model.form;
 
-public class AvaliacaoForm {
+public class AvaliacaoFisicaForm {
 
     private Long alunoId;
 
